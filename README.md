@@ -20,10 +20,18 @@ See [Crunch Time video] (https://youtu.be/KoeOxGJG3mI)
 ## Screenshots
 
 <img src="screenshots/Screenshot 2016-02-05 14.40.36 copy.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Screenshot 2016-02-05 14.48.47 copy.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Screenshot 2016-02-05 14.56.28 copy.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Screenshot 2016-02-05 14.59.25 copy.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Screenshot 2016-02-05 15.05.55 copy.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Screenshot 2016-02-05 15.11.37 copy.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Screenshot 2016-02-05 15.29.33 copy.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
+-jayamohan from stackOverflow, posted a code snippet that proved helpful for my function that
+determines if inputs are valid.
+
+-Anke from stackOverflow, helped a ton with getting the layout to look nice.
 
 *Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
