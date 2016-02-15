@@ -33,5 +33,3 @@ See [Crunch Time video] (https://youtu.be/KoeOxGJG3mI)
 determines if inputs are valid.
 
 -Anke from stackOverflow, helped a ton with getting the layout to look nice.
-
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
