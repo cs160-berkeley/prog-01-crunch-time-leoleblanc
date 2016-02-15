@@ -19,7 +19,7 @@ See [Crunch Time video] (https://youtu.be/KoeOxGJG3mI)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Screenshot 2016-02-05 14.40.36 copy.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
